@@ -1,0 +1,68 @@
+{
+    "sounds": [
+
+        {
+            "name": "Video1",
+            "type": "video",
+
+            "scene": "SCENE_VIDEO_SOUNDBOARD",
+
+            "source": "SRC_TEST",
+
+            "hotkey": "<alt>+1",
+
+            "x": 250,
+            "y": 300,
+
+            "scale_x": 1.0,
+            "scale_y": 1.0,
+
+            "rotation": 0,
+
+            "volume": 80
+        },
+
+        {
+            "name": "Video2",
+            "type": "video",
+
+            "scene": "SCENE_VIDEO_SOUNDBOARD",
+
+            "source": "SRC_TESTX",
+
+            "hotkey": "<alt>+2",
+
+            "x": 900,
+            "y": 400,
+
+            "scale_x": 0.8,
+            "scale_y": 0.8,
+
+            "rotation": 10,
+
+            "volume": 65
+        },
+
+        {
+            "name": "Image1",
+            "type": "image",
+
+            "scene": "SCENE_VIDEO_SOUNDBOARD",
+
+            "source": "SRC_IMAGE1",
+
+            "hotkey": "<alt>+i",
+
+            "x": -200,
+            "y": -300,
+
+            "scale_x": 0.4,
+            "scale_y": 0.4,
+
+            "rotation": 0,
+
+            "volume": 0
+        }
+
+    ]
+}
